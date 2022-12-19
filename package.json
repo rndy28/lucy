@@ -28,7 +28,7 @@
     "@tabler/icons": "^1.97.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-router-dom": "6.3.0",
+    "react-router-dom": "6.5.0",
     "simple-icons": "6.21.0",
     "vite-tsconfig-paths": "3.5.0"
   },
