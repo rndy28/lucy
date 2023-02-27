@@ -485,10 +485,10 @@
     tiny-glob "^0.2.9"
     tslib "^2.4.0"
 
-"@tabler/icons@^1.97.0":
-  version "1.97.0"
-  resolved "https://registry.yarnpkg.com/@tabler/icons/-/icons-1.97.0.tgz#e727f140c07aad3d26bba374d530f816a96bafbc"
-  integrity sha512-4g6mky2cYzL/utqe8xYOg2KLA3Xf9rQyRowhi1YiekKp9BbV25CTEkn8sFqsRHHLPnl0KuewONHwODeDp46EYw==
+"@tabler/icons@^2.6.0":
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/@tabler/icons/-/icons-2.6.0.tgz#015275a0e13988ff8ad9c4a81cac0c754b8c0bd4"
+  integrity sha512-rflJyQSsu2iV6QgrA7ZdGaikSTdIVpXlem0jBIcx18OKg0ZJmLojmrhNo7DpOW7bCT4Hr2r6jcpq8uSYrinqZw==
 
 "@tsconfig/node10@^1.0.7":
   version "1.0.9"
